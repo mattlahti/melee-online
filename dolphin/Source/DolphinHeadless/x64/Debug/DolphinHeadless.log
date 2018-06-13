@@ -1,0 +1,1 @@
+﻿C:\Users\flahertyrm08\Dropbox\melee-online\dolphin\Source\DolphinHeadless\DolphinHeadless.vcxproj(35,5): error MSB4019: The imported project "C:\Users\flahertyrm08\Dropbox\melee-online\dolphin\VSProps\Base.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.

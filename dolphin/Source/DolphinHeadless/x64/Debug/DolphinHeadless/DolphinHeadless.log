@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4281: undesirable base address 0x400000 for x64 image; set base address above 4GB for best ASLR optimization
+  DolphinHeadless.vcxproj -> C:\Users\flahertyrm08\Dropbox\melee-online\dolphin\Source\DolphinHeadless\x64\Debug\bin\DolphinHeadless.exe
